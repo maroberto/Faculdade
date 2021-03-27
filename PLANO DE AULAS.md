@@ -6,8 +6,8 @@
 DICIPLINA | AULAS | AV 
 :---------: | :---------: | :---------:
 Fundamentos de redes de computadores | 6 |NÃO
-Introdução a segurana da informação | 6 |NÃO
-Introdução a progrmação estruturada em C | 6 | NÃO 
+Introdução a segurança da informação | 6 |NÃO
+Introdução a programação estruturada em C | 6 | NÃO 
 Organização e arquitetura de computadores | 6 |NÃO
 Planejamento de carreira e sucesso profissional | 4 |NAO
 
@@ -35,9 +35,9 @@ Introdução a segurana da informação | 00/00/0000 |NÃO
 
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
-Introdução a progrmação estruturada em C | 00/00/0000 | NÃO 
+Introdução a progrmação estruturada em C | 26/03/2021 | NÃO 
 
-- [ ] AULA 1
+- [x] AULA 1
 - [ ] AULA 2
 - [ ] AULA 3
 - [ ] AULA 4
