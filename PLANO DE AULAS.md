@@ -14,57 +14,49 @@ Planejamento de carreira e sucesso profissional | 4 |NAO
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
 Fundamentos de redes de computadores | 00/00/0000 |NÃO
-
-- [ ] AULA 1
-- [ ] AULA 2
-- [ ] AULA 3
-- [ ] AULA 4
-- [ ] AULA 5
-- [ ] AULA 6
+AULA 1 |  NÃO | NÃO
+AULA 2 |  NÃO | NÃO
+AULA 3 |  NÃO | NÃO
+AULA 4 |  NÃO | NÃO
+AULA 5 |  NÃO | NÃO
+AULA 6 |  NÃO | NÃO
 
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
 Introdução a segurana da informação | 00/00/0000 |NÃO
-
-- [ ] AULA 1
-- [ ] AULA 2
-- [ ] AULA 3
-- [ ] AULA 4
-- [ ] AULA 5
-- [ ] AULA 6
+AULA 1 |  NÃO | NÃO
+AULA 2 |  NÃO | NÃO
+AULA 3 |  NÃO | NÃO
+AULA 4 |  NÃO | NÃO
+AULA 5 |  NÃO | NÃO
+AULA 6 |  NÃO | NÃO
 
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
-Introdução a progrmação estruturada em C | 26/03/2021 | NÃO 
-
-- [x] AULA 1
-- [ ] AULA 2
-- [ ] AULA 3
-- [ ] AULA 4
-- [ ] AULA 5
-- [ ] AULA 6
+Introdução a progrmação estruturada em C | NÃO | NÃO 
+AULA 1 | 26/03/2021| NÃO
+AULA 2 | 01/04/2021 | NÃO
+AULA 3 |  NÃO | NÃO
+AULA 4 |  NÃO | NÃO
+AULA 5 |  NÃO | NÃO
+AULA 6 |  NÃO | NÃO
 
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
 Organização e arquitetura de computadores | 00/00/000 |NÃO
-
-- [ ]  AULA 1
-- [ ] AULA 2
-- [ ] AULA 3
-- [ ] AULA 4
-- [ ] AULA 5
-- [ ] AULA 6
+AULA 1 |  NÃO | NÃO
+AULA 2 |  NÃO | NÃO
+AULA 3 |  NÃO | NÃO
+AULA 4 |  NÃO | NÃO
+AULA 5 |  NÃO | NÃO
+AULA 6 |  NÃO | NÃO
 
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
 Planejamento de carreira e sucesso profissional | 00/00/0000 |NAO
+AULA 1 |  NÃO | NÃO
+AULA 2 |  NÃO | NÃO
+AULA 3 |  NÃO | NÃO
+AULA 4 |  NÃO | NÃO
 
-- [ ]  AULA 1 
-- [ ] AULA 2
-- [ ] AULA 3
-- [ ] AULA 4
-
-
-
-
-
+ 
