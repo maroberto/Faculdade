@@ -15,7 +15,7 @@ DICIPLINA | DATA | SIMULADO
 :---------: | :---------: | :---------:
 Fundamentos de redes de computadores | 00/00/0000 |NÃO
 AULA 1 |  02/04/2021 | NÃO
-AULA 2 |  NÃO | NÃO
+AULA 2 | 04/04/2021 | NÃO
 AULA 3 |  NÃO | NÃO
 AULA 4 |  NÃO | NÃO
 AULA 5 |  NÃO | NÃO
