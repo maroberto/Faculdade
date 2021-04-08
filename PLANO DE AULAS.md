@@ -44,7 +44,7 @@ AULA 6 |  NÃO | NÃO
 DICIPLINA | DATA | SIMULADO 
 :---------: | :---------: | :---------:
 Organização e arquitetura de computadores | 00/00/000 |NÃO
-AULA 1 |  NÃO | NÃO
+AULA 1 | 08/04/2021 | NÃO
 AULA 2 |  NÃO | NÃO
 AULA 3 |  NÃO | NÃO
 AULA 4 |  NÃO | NÃO
