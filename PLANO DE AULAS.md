@@ -25,7 +25,7 @@ DICIPLINA | DATA | SIMULADO
 :---------: | :---------: | :---------:
 Introdução a segurana da informação | 00/00/0000 |NÃO
 AULA 1 | 05/04/2021 | NÃO
-AULA 2 |  NÃO | NÃO
+AULA 2 | 22/04/2021 | NÃO
 AULA 3 |  NÃO | NÃO
 AULA 4 |  NÃO | NÃO
 AULA 5 |  NÃO | NÃO
