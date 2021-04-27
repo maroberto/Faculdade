@@ -51,13 +51,7 @@ AULA 4 |  NÃO | NÃO
 AULA 5 |  NÃO | NÃO
 AULA 6 |  NÃO | NÃO
 
-DICIPLINA | DATA | SIMULADO 
-:---------: | :---------: | :---------:
-Planejamento de carreira e sucesso profissional | 00/00/0000 |NAO
-AULA 1 |  19/04/2021 | NÃO
-AULA 2 |  19/04/2021 | NÃO
-AULA 3 |  NÃO | NÃO
-AULA 4 |  NÃO | NÃO
+
 
 
 !!!! Tudo vai dar certo.
